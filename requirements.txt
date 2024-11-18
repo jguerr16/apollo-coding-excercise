@@ -1,0 +1,7 @@
+
+### `requirements.txt`
+
+```plaintext
+flask
+flask-sqlalchemy
+pytest
